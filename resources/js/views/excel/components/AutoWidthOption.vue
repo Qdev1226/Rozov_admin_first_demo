@@ -1,0 +1,1 @@
+Tinymce/components/EditorImage.vue
